@@ -10,7 +10,10 @@ public class ArrayReverse {
 		System.out.println(Arrays.toString(arr));
 	}
 	
-	
+	/**
+	 * Simplest ways
+	 * @param arr
+	 */
 	public static void reverseArray(int[] arr) {
 		
 		int middleIndex = arr.length / 2;
